@@ -11,6 +11,8 @@
 <a href="https://www.figma.com/file/53ngPzQGTVxwFsKTA5vbqd/Jaqueline-gonzalez?type=design&node-id=0%3A1&mode=design&t=XdXKvwfWsTDqNl77-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
+
 
 <h2>Punto 3: Diseño con CSS</h2>
 
