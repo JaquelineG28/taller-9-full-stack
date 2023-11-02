@@ -1,0 +1,26 @@
+.color-verde {
+    color: green;
+}
+
+.color-rojo {
+    color: red;
+}
+
+.subrayado {
+    text-decoration-line: overline underline;
+}
+
+.color-azul {
+    color: blue;
+    font-size: 17px;
+}
+
+.color-negro {
+    font-size: 40px;
+}
+
+.rojo-negrita {
+    color: red;
+    font-size: 17px;
+    text-decoration-line: underline;
+}
