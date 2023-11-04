@@ -1,0 +1,27 @@
+table {
+    background-color: yellow;
+    border-top: 1px dotted;
+    border-left: 1px dotted;
+    border-right: 1px dotted;
+    border-bottom: 2px dashed red;
+    border-collapse: collapse;
+    border-spacing: 0cm;
+   }
+
+thead {
+    color: red;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    }
+
+.parrafo {
+    border-top: 1px dotted;
+}
+
+.datos {
+    border-right: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+
+
+
