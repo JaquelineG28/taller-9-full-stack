@@ -5,6 +5,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Link de la pagina web</h2>
+<a href="https://jaquelineg28.github.io/taller-9-full-stack/">Link de la pagina web</a>
 
 
 <h2>Punto 1: Link de figma</h2>
