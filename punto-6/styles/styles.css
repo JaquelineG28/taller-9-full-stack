@@ -1,1 +1,20 @@
+h3 {
+    margin: 30px 350px;
+}
 
+.titulo {
+    font-size: 40px;
+}
+
+a {
+    font-size: 35px;
+    margin: 50px 350px;
+}
+
+.link-1{
+    color: yellow;
+}
+
+.link-2 {
+    color: rgba(137, 43, 226, 0.897);
+}

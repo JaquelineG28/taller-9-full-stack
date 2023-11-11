@@ -6,23 +6,25 @@ table {
     border-bottom: 2px dashed red;
     border-collapse: collapse;
     border-spacing: 0cm;
-    margin: 30px 200px;
+    margin: 50px 270px;
    }
 
 thead {
     color: red;
     text-align: center;
-    font-family: 'match bold';
     }
-
-.parrafo {
-    border-top: 1px dotted;
-    font-size: large;
-}
 
 .datos {
     border-right: 1px dotted black;
     border-bottom: 1px dotted black;
+}
+
+b {
+    font-size: 22px;
+}
+
+th {
+    font-style: oblique;
 }
 
 

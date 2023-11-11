@@ -1,9 +1,21 @@
 div {
-    background: rgb(224, 143, 220)
+    display: flex;
+    margin: 50px 350px;
+    background-color: rgba(178, 106, 245, 0.979);
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
 }
 
 a {
-    border: none;
     color: white;
+    font-size: 20px;
     text-decoration: none;
+}
+
+li:hover {
+    background-color: blue;
 }
